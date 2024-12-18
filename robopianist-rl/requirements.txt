@@ -1,0 +1,7 @@
+tyro
+wandb
+dm_env_wrappers
+flax
+optax
+distrax
+scipy==1.12.0
